@@ -1,0 +1,24 @@
+{
+  "name": "auspostapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alainrjacques/auspostapi.git"
+  },
+  "author": "Alain Jacques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alainrjacques/auspostapi/issues"
+  },
+  "homepage": "https://github.com/Alainrjacques/auspostapi#readme",
+  "dependencies": {
+    "then-request": "6.0.2",
+    "typescript": "3.5.1"
+  }
+}
