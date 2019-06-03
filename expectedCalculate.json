@@ -1,0 +1,13 @@
+{
+  "postage_result": {
+    "costs": {
+      "cost": {
+        "cost": "16.25",
+        "item": "Parcel Post"
+      }
+    },
+    "delivery_time": "Delivered in 3 business days",
+    "service": "Parcel Post",
+    "total_cost": "16.25"
+  }
+}
