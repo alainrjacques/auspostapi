@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Alainrjacques/auspostapi#readme",
   "dependencies": {
     "@types/mocha": "5.2.7",
-    "mocha": "6.1.4",
+    "mocha": "10.2.0",
     "then-request": "6.0.2",
     "typescript": "3.5.1"
   }
